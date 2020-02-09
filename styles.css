@@ -31,7 +31,7 @@ li a:hover:not(.active){
     background-color: chartreuse;
   }
 .active{
-    background-color: cornflowerblue;
+    background-color: lightpink;
 }
 .column{
     flex: 50%;
