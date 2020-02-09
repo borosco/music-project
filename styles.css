@@ -15,7 +15,7 @@ ul {
     background-color: orangered;
   }
   
-  li {
+li {
     float: left;
   }
   
@@ -27,9 +27,12 @@ li a {
     text-decoration: none;
   }
   
-li a:hover {
+li a:hover:not(.active){
     background-color: chartreuse;
   }
+.active{
+    background-color: cornflowerblue;
+}
 .column{
     flex: 50%;
     padding: 10px;
