@@ -51,3 +51,7 @@ li a:hover:not(.active){
 .row{
     display: flex;
 }
+.ft-one{
+    background-color: lightyellow;
+    text-align: center;
+}
