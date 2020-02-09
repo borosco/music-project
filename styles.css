@@ -1,5 +1,14 @@
-img{
-    body{
-        background-image: url(images/);
+ body {
+        background-image: url('images/bgimage.jpg');
+        /* background-repeat: no-repeat; */
+        background-size: cover;
+        
     }
+}
+nav{
+    display: inline;
+    padding: 16px 13px;
+    margin: 0;
+    
+
 }
