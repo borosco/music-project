@@ -6,7 +6,7 @@
         background-size: 100% 100%;
         
     }
-}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -19,7 +19,7 @@ ul {
     float: left;
   }
   
-  li a {
+li a {
     display: block;
     color: white;
     text-align: center;
@@ -27,8 +27,8 @@ ul {
     text-decoration: none;
   }
   
-  li a:hover {
-    background-color: #111;
+li a:hover {
+    background-color: chartreuse;
   }
 .column{
     flex: 50%;
